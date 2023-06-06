@@ -1,7 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="Person unit tests ">
     <parameter name="man1" value=""></parameter>
-
     <test name="Person regression">
         <classes>
             <class name="person.PersonTests"/>
